@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(237, 246, 230);
+}
+.container {
+    text-align: center;
+    font-size: large;
+    color: rgb(3, 13, 32);
+}
+#map {
+    margin-top: 20px;
+    width: 800px;
+    margin-left: 330px;
+    border: 1px solid ;
+    border-radius: 10px;
+}
